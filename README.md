@@ -10,3 +10,4 @@ For more information regarding my technical and professional experiences examine
 ## My Projects
 
 ### Relationships: How Closeness is Changing Through Generations
+![Relationships](assets/Relationships_How_Closeness_is_Changing_In_Generations.png)
