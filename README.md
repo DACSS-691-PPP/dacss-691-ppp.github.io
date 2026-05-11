@@ -7,7 +7,19 @@ I have experience with a variety of different coding languages, from Python to J
 For more information regarding my technical and professional experiences examine my resume here: [SophiaLaRocca-MasterResume.docx.pdf](https://github.com/user-attachments/files/27576242/SophiaLaRocca-MasterResume.docx.pdf)
 
 My [LinkedIn](https://www.linkedin.com/in/sophia-larocca-b1071426a/)
+
 My [Email](slarocca@umass.edu)
+
+## Skills
+
+### Technical
+I have experience in coding in R, Python, Java, C, JavaFX, and MIPS
+
+### Language
+While my first language is English, I know basic Italian and basic Spanish
+
+### Computer
+I have experience in a variety of different online skills such as : Google Docs, Google Sheets, Google Drawings, Google Slides, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Office, Zoom, GitHub and more.
 
 ## My Projects
 
