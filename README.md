@@ -6,8 +6,12 @@ I have experience with a variety of different coding languages, from Python to J
 
 For more information regarding my technical and professional experiences examine my resume here: [SophiaLaRocca-MasterResume.docx.pdf](https://github.com/user-attachments/files/27576242/SophiaLaRocca-MasterResume.docx.pdf)
 
+My [LinkedIn](https://www.linkedin.com/in/sophia-larocca-b1071426a/)
+My [Email](slarocca@umass.edu)
 
 ## My Projects
+
+Below are some of the projects I have done so far in my master's program.
 
 ### Relationships: How Closeness is Changing Through Generations
 This project compares how relationship closeness changes between two different age ranges of people in California.
