@@ -15,4 +15,4 @@ This project compares how relationship closeness changes between two different a
 
 ### The Impact of Connection on United States Politics
 This project examines the way that things such as religion, gender, and age can impact political ideology.
-To see the project in it's entirety, please follow this link: [Impact_Of_Connection_on_Politics](
+To see the project in it's entirety, please follow this link: [Impact_Of_Connection_on_Politics](assets/SophiaLaRocca_FinalProject.html)
