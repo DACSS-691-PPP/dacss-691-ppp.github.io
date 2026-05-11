@@ -10,6 +10,9 @@ For more information regarding my technical and professional experiences examine
 ## My Projects
 
 ### Relationships: How Closeness is Changing Through Generations
+This project compares how relationship closeness changes between two different age ranges of people in California.
 ![Relationships](assets/Relationships_How_Closeness_is_Changing_In_Generations.png)
 
 ### The Impact of Connection on United States Politics
+This project examines the way that things such as religion, gender, and age can impact political ideology.
+To see the project in it's entirety, please follow this link: [Impact_Of_Connection_on_Politics](
